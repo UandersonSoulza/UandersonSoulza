@@ -18,8 +18,8 @@ Estudante de **Desenvolvimento de Sistemas** (SENAI), construindo aplicações w
 
 | Projeto | Descrição |
 |---|---|
-| [Sistema de Consultas Médicas](https://github.com/SEU-USUARIO/projetos-destaque/tree/main/sistema-consultas-medicas) | Aplicação web (Flask + MySQL) para gestão de clínica: pacientes, médicos, consultas e exames |
-| [Controle de Estoque](https://github.com/SEU-USUARIO/projetos-destaque/tree/main/controle-estoque-spring) | Sistema web (Spring Boot + MySQL) de controle de estoque com categorias e movimentações |
-| [Gerenciador de Produtos Desktop](https://github.com/SEU-USUARIO/projetos-destaque/tree/main/gerenciador-produtos-desktop) | Aplicação desktop (Java Swing) com login e CRUD de produtos, em MVC |
+| [Sistema de Consultas Médicas](https://github.com/UandersonSoulza/Projetos-Destaque/tree/main/sistema-consultas-medicas) | Aplicação web (Flask + MySQL) para gestão de clínica: pacientes, médicos, consultas e exames |
+| [Controle de Estoque](https://github.com/UandersonSoulza/Projetos-Destaque/tree/main/controle-estoque-spring) | Sistema web (Spring Boot + MySQL) de controle de estoque com categorias e movimentações |
+| [Gerenciador de Produtos Desktop](https://github.com/UandersonSoulza/Projetos-Destaque/tree/main/gerenciador-produtos-desktop) | Aplicação desktop (Java Swing) com login e CRUD de produtos, em MVC |
 
-📁 Todos os projetos em destaque estão organizados no repositório [`projetos-destaque`](https://github.com/SEU-USUARIO/projetos-destaque).
+📁 Todos os projetos em destaque estão organizados no repositório [`projetos-destaque`](https://github.com/UandersonSoulza/Projetos-Destaque).
