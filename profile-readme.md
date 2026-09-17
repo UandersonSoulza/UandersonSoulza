@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Estudante de **Desenvolvimento de Sistemas** (SENAI), construindo aplicações web e desktop enquanto aprendo. Foco em back-end, com projetos em Java/Spring Boot e Python/Flask.
+Sou estudante de **Desenvolvimento de Sistemas** (SENAI), construindo aplicações web e desktop enquanto aprendo. Foco em back-end, com projetos em Java/Spring Boot e Python/Flask.
 
 - 📍 Salvador, BA
 - 🔗 [LinkedIn](https://www.linkedin.com/in/uanderson-souza-pd8681/)
